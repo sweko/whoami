@@ -1,7 +1,7 @@
 # Wekoslav Stefanovski
 ## 🚀 Senior Software Developer | Technical Lead | Software Architect
 
-📍 Skopje, Macedonia | 🎂 47 years | 💼 20+ Years Experience
+📍 Skopje, Macedonia | 🎂 Since 1977 | 💼 20+ Years Experience
 
 ---
 
