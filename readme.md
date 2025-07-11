@@ -65,9 +65,8 @@ Accomplished **Senior Software Developer** and **Technical Lead** with over two 
 
 #### 🎯 Key Achievements:
 - **Led** projects ranging from single-developer initiatives to multi-team enterprises
-- **Delivered** 20+ successful projects with 95% client satisfaction rate
+- **Delivered** many successful projects with high client satisfaction rate
 - **Pioneered** company-wide adoption of modern development practices
-- **Conducted** pre-sales technical analysis resulting in €2M+ in new contracts
 
 #### 📋 Core Responsibilities:
 - 📊 **Pre-sales Engineering**: Technical feasibility and solution design
@@ -93,7 +92,7 @@ Accomplished **Senior Software Developer** and **Technical Lead** with over two 
 
 ## 📚 **Published Work**
 
-### 📖 **"The TypeScript Workshop"**
+### 📖 **"The TypeScript Workshop"** (co-author)
 *Published by Packt Publishing*  
 Comprehensive guide to mastering TypeScript for modern web development
 
